@@ -4,3 +4,7 @@ Neighborhoods close to John
 The Indian restaurants located within each neighborhood 
 Table with all the neighborhood's individual resturant ratings
 Specific venue details - overall ratings, tips, agree counts, disagree counts
+
+Using all this data, you can evaluate the "competition" within neighborhoods near John based on number of Indian 
+Restaurants nearby and the number of high rated restaurants in those neighborhoods. Additional info such as specific venue details can be used as a tie breaker.
+The neighborhood with the lowest ranking will be the neighborhood John should open his restaurant in. 
